@@ -34,11 +34,13 @@ The form is integrated with Formspree, allowing us to receive inquiries directly
 
 
 ## Technologies Used
-HTML5,CSS3, and Formspree
+HTML5, CSS3, and Formspree
 **Hosting:**
 The website is hosted through the University of Hawaii's server and accessed via SFTP using FileZilla. The files are uploaded to the server located at:
 
 URL: [https://www2.hawaii.edu/~uhmse3d/](https://www2.hawaii.edu/~uhmse3d/)
+
+
 To update the website, files are transferred through SFTP:
 
 Use FileZilla: Connect via SFTP to the university's server.
